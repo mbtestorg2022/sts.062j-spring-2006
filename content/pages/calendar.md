@@ -6,21 +6,225 @@ uid: 5efff7af-6c10-6073-94a1-92891cefe73c
 
 The table below provides information about the course's lecture (L) and quiz (Q) sessions.
 
-| ses # | TOPICS | kEY dATES |
-| --- | --- | --- |
-| L1 | Introduction |  |
-| L2 | Some Preliminary Ideas |  |
-| L3 | Alcohol in the U.S.  {{< br >}}  {{< br >}}Movie: _Reefer Madness_ |  |
-| L4 | Alcohol Across Cultures  {{< br >}}  {{< br >}}Guest Speaker: Alcoholics Anonymous |  |
-| L5 | "Primitive" Drugs  {{< br >}}  {{< br >}}Documentary: _The Peyote Road_ |  |
-| L6 | Drugs and American Counterculture  {{< br >}}  {{< br >}}Movie: _Timothy Leary is Dead_ |  |
-| L7 | Cocaine, Latin America and Globalization | First paper due |
-| L8 | Cocaine Consumption |  |
-| Q1 | Quiz 1 |  |
-| L9 | Crack Dealers  {{< br >}}  {{< br >}}Guest Speakers |  |
-| L10 | The War on Drugs |  |
-| L11 | The War on Drugs (cont.) |  |
-| L12 | Modern Pharmaceuticals: Sex |  |
-| Q2 | Quiz 2 |  |
-| L13 | Modern Pharmaceuticals: Prozac®  {{< br >}}  {{< br >}}Documentary: _Happy Valley_ |  |
-| L14 | Big Pharma | Second paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+kEY dATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Some Preliminary Ideas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Alcohol in the U.S.  
+  
+Movie: _Reefer Madness_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Alcohol Across Cultures  
+  
+Guest Speaker: Alcoholics Anonymous
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+"Primitive" Drugs  
+  
+Documentary: _The Peyote Road_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Drugs and American Counterculture  
+  
+Movie: _Timothy Leary is Dead_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Cocaine, Latin America and Globalization
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Cocaine Consumption
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Crack Dealers  
+  
+Guest Speakers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+The War on Drugs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+The War on Drugs (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Pharmaceuticals: Sex
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Pharmaceuticals: Prozac®  
+  
+Documentary: _Happy Valley_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Big Pharma
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

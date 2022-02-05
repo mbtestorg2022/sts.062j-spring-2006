@@ -21,16 +21,117 @@ Exemplary Student Papers
 
 The list below are second paper submissions. All papers appear courtesy of the students named and are used with permission.
 
-| PAPER TOPICS | AUTHORS |
-| --- | --- |
-| "Why in Baseball is Using Steroids Considered Cheating?" ([PDF]({{< baseurl >}}/resources/baseball)) | Brian Chase |
-| "How to Improve the National Drug Control Strategy to Win the War on Drugs" ([PDF]({{< baseurl >}}/resources/drugs)) | Anonymous |
-| "Methamphetamine: Dangerous Drug Craze and Toxic Pollutant" ([PDF]({{< baseurl >}}/resources/meth)) | Anonymous |
-| "Truth or DARE?" ([PDF]({{< baseurl >}}/resources/truth_dare)) | Paresh Agarwal |
-| "Comparison of Exchange Students' Views of the Drinking Culture of MIT and Cambridge" ([PDF]({{< baseurl >}}/resources/exchnge_students)) | Amy Wu |
-| "Emergency Contraception and Refusal Clauses: A Threat to Women" ([PDF]({{< baseurl >}}/resources/emergency)) | Francesca Bartolomey |
-| "Rights of Pharmacists versus the Rights of Women: The Morning-After Pill" ([PDF]({{< baseurl >}}/resources/sts062essay2)) | Melissa Tanner |
-| "The Cocaine Sentencing Disparity" ([PDF]({{< baseurl >}}/resources/cocaine)) | David Levenson |
-| "Is Taking Ritalin Cheating?" ([PDF]({{< baseurl >}}/resources/sts062finalpaper)) | Matt Angle |
-| "Beavers and Prozac®: Antidepressants at MIT" ([PDF]({{< baseurl >}}/resources/analucia_berry_sts062j)) | Analucia Berry |
-| "Speed Culture in the Digital Generation" ([PDF]({{< baseurl >}}/resources/speed)) | Ona Kondrotas
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAPER TOPICS
+{{< thclose >}}
+{{< thopen >}}
+AUTHORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Why in Baseball is Using Steroids Considered Cheating?" ([PDF]({{< baseurl >}}/resources/baseball))
+{{< tdclose >}}
+{{< tdopen >}}
+Brian Chase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"How to Improve the National Drug Control Strategy to Win the War on Drugs" ([PDF]({{< baseurl >}}/resources/drugs))
+{{< tdclose >}}
+{{< tdopen >}}
+Anonymous
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Methamphetamine: Dangerous Drug Craze and Toxic Pollutant" ([PDF]({{< baseurl >}}/resources/meth))
+{{< tdclose >}}
+{{< tdopen >}}
+Anonymous
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Truth or DARE?" ([PDF]({{< baseurl >}}/resources/truth_dare))
+{{< tdclose >}}
+{{< tdopen >}}
+Paresh Agarwal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Comparison of Exchange Students' Views of the Drinking Culture of MIT and Cambridge" ([PDF]({{< baseurl >}}/resources/exchnge_students))
+{{< tdclose >}}
+{{< tdopen >}}
+Amy Wu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Emergency Contraception and Refusal Clauses: A Threat to Women" ([PDF]({{< baseurl >}}/resources/emergency))
+{{< tdclose >}}
+{{< tdopen >}}
+Francesca Bartolomey
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Rights of Pharmacists versus the Rights of Women: The Morning-After Pill" ([PDF]({{< baseurl >}}/resources/sts062essay2))
+{{< tdclose >}}
+{{< tdopen >}}
+Melissa Tanner
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"The Cocaine Sentencing Disparity" ([PDF]({{< baseurl >}}/resources/cocaine))
+{{< tdclose >}}
+{{< tdopen >}}
+David Levenson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Is Taking Ritalin Cheating?" ([PDF]({{< baseurl >}}/resources/sts062finalpaper))
+{{< tdclose >}}
+{{< tdopen >}}
+Matt Angle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Beavers and Prozac®: Antidepressants at MIT" ([PDF]({{< baseurl >}}/resources/analucia_berry_sts062j))
+{{< tdclose >}}
+{{< tdopen >}}
+Analucia Berry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Speed Culture in the Digital Generation" ([PDF]({{< baseurl >}}/resources/speed))
+{{< tdclose >}}
+{{< tdopen >}}
+Ona Kondrotas
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

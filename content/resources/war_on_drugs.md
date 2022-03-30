@@ -5,6 +5,7 @@ description: This lecture notes discusses about regulatory history of cocaine, a
   integrity of state.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-062j-drugs-politics-and-culture-spring-2006/8a6ce59030afc6bcb97e7ce576b2f7c7_war_on_drugs.pdf
 file_type: application/pdf
+parent_uid: 5f9939db-bc79-9ba1-b817-3d4a4f247b7a
 resourcetype: Document
 title: war_on_drugs.pdf
 uid: 8a6ce590-30af-c6bc-b97e-7ce576b2f7c7

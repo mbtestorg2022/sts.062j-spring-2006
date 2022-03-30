@@ -6,6 +6,7 @@ description: 'This exam file includes the quizzes related to neo-empiricist cons
   setting for drug use.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-062j-drugs-politics-and-culture-spring-2006/2cdbca5de076db24210dce71bec5a0ff_quiz1.pdf
 file_type: application/pdf
+parent_uid: 10e8c783-a99d-9084-9fc4-91fa2aca6092
 resourcetype: Document
 title: quiz1.pdf
 uid: 2cdbca5d-e076-db24-210d-ce71bec5a0ff

@@ -5,6 +5,7 @@ description: 'This resource is the final paper subminted by students explaining 
   and colleges nationwide.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-062j-drugs-politics-and-culture-spring-2006/c9b0d8226f67df5716e160a3333289c9_speed.pdf
 file_type: application/pdf
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: speed.pdf
 uid: c9b0d822-6f67-df57-16e1-60a3333289c9
